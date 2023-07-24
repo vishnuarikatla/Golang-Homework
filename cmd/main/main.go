@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Some cganges for practice")
+	
 	for {
 		fmt.Println("Menu:")
 		fmt.Println("1. Task 1")
